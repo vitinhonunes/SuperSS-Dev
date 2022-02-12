@@ -74,7 +74,7 @@
         abstract public function show();
 
         protected $msg = [];
-        protected $page = 0;
+        protected $page = 1;
 
         protected function checkLogin() {
 
